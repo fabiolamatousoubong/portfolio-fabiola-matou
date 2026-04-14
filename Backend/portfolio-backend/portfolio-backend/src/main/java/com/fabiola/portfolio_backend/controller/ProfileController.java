@@ -7,7 +7,7 @@ import com.fabiola.portfolio_backend.model.Profile;
 import com.fabiola.portfolio_backend.service.ProfileService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "*")
 public class ProfileController {
 
     private final ProfileService profileService;
