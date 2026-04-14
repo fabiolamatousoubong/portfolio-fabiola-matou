@@ -1,5 +1,9 @@
 <script setup>
-const { data: profile, pending, error } = await useFetch('http://localhost:8080/api/profile')
+const config = useRuntimeConfig()
+
+const { data: profile, pending, error } = await useFetch(
+  `${config.public.apiBase}/api/profile`
+)
 </script>
 
 <template>
@@ -37,23 +41,23 @@ const { data: profile, pending, error } = await useFetch('http://localhost:8080/
         <!-- Contact -->
         <div style="margin-top: 20px;">
           <p>
-            <strong>📍 Ort:</strong> 
+            <strong>📍 Ort:</strong>
             {{ profile?.city || 'Berlin' }}
           </p>
 
           <p>
-            <strong>📧 Email:</strong> 
+            <strong>📧 Email:</strong>
             {{ profile?.email || 'fabiolamatou@gmail.com' }}
           </p>
 
           <p>
-            <strong>📞 Telefon:</strong> 
+            <strong>📞 Telefon:</strong>
             {{ profile?.phone || '+49 178 8251276' }}
           </p>
 
           <p>
             <strong>🔗 LinkedIn:</strong>
-            <a 
+            <a
               :href="profile?.linkedin || 'https://www.linkedin.com/in/syntcha-fabiola-matou-soubong/'"
               target="_blank"
               style="color: #1f2f6b; font-weight: bold;"
@@ -72,18 +76,18 @@ const { data: profile, pending, error } = await useFetch('http://localhost:8080/
 <style scoped>
 .simple-page { padding: 40px 0 56px; }
 
-.simple-card { 
-  padding: 28px; 
+.simple-card {
+  padding: 28px;
   text-align: center;
 }
 
-.simple-card h1 { 
-  color: var(--primary); 
+.simple-card h1 {
+  color: var(--primary);
   margin-bottom: 20px;
 }
 
-.simple-card p { 
-  color: var(--muted); 
+.simple-card p {
+  color: var(--muted);
   line-height: 1.6;
 }
 </style>

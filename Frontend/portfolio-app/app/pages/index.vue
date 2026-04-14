@@ -50,7 +50,7 @@
 
     <div class="stats card">
       <div>
-        <strong>2023 – heute</strong>
+        <strong>April 2024 – heute</strong>
         <span>Master in Angewandter Informatik</span>
       </div>
 
@@ -60,7 +60,7 @@
       </div>
 
       <div>
-        <strong>CI/CD & Web</strong>
+        <strong>CI/CD & Webentwicklung</strong>
         <span>Angular, Node.js, TypeScript, Docker, GitHub</span>
       </div>
     </div>

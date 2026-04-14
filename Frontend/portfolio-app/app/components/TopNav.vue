@@ -3,7 +3,7 @@
     <div class="container topnav-inner">
       <NuxtLink to="/" class="brand">Fabiola</NuxtLink>
       <nav class="nav-links">
-        <NuxtLink to="/">Accueil</NuxtLink>
+        <NuxtLink to="/">Startseite</NuxtLink>
         <NuxtLink to="/cv">Lebenslauf</NuxtLink>
         <NuxtLink to="/documents">Zeugnisse</NuxtLink>
         <NuxtLink to="/profile">Profil</NuxtLink>

@@ -44,11 +44,11 @@
         <h2>🎓 Ausbildung</h2>
         <div class="item">
           <strong>Master of Science — Angewandte Informatik</strong>
-          <span>Seit 2023 · Hochschule Berlin</span>
+          <span>Seit April 2024· Hochschule Berlin</span>
         </div>
         <div class="item">
           <strong>Bachelor of Science — Angewandte Informatik</strong>
-          <span>2019 – 2023 · Hochschule Fulda</span>
+          <span>Oktober 2019 – Februar 2024 · Hochschule Fulda</span>
           <p>Bachelorarbeit zur Verbesserung der Softwarequalität durch CI/CD und automatisierte Tests.</p>
         </div>
       </section>
@@ -74,7 +74,7 @@
       <section class="card cv-section">
         <h2>🌍 Sprachen</h2>
         <div class="language-row"><span>Deutsch</span><strong>C2</strong></div>
-        <div class="language-row"><span>Französisch</span><strong>Fließend</strong></div>
+        <div class="language-row"><span>Französisch</span><strong>Muttersprache</strong></div>
         <div class="language-row"><span>English</span><strong>B1</strong></div>
       </section>
     </div>
