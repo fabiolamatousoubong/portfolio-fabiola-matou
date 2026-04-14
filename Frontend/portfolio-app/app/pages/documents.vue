@@ -26,8 +26,8 @@
         <div class="doc">
           <h3>💼 Praktische Erfahrung</h3>
           <p>Werkstudentin & Praktikum im Bereich Softwareentwicklung</p>
-          <a href="/Bescheinigung Syntcha Fabiola Matou Soubong (1).pdf" target="_blank">Ansehen</a>
-          <a href="/Bescheinigung Syntcha Fabiola Matou Soubong (1).pdf" download>Herunterladen</a>
+          <a href="/Bescheinigung Syntcha Fabiola Matou Soubong.PDF" target="_blank">Ansehen</a>
+          <a href="/Bescheinigung Syntcha Fabiola Matou Soubong.PDF" download>Herunterladen</a>
         </div>
 
       </div>
