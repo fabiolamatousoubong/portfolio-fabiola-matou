@@ -6,6 +6,9 @@ Frontend/portfolio-app/.output/
 # Backend
 Backend/portfolio-backend/portfolio-backend/target/
 
+# IDE
 .vscode/
 .idea/
+
+# Env
 .env
