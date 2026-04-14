@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      apiBase: 'https://portfolio-backend-xxxx.onrender.com'
+     apiBase: 'https://portfolio-backend-7r3c.onrender.com'
     }
   }
 })
