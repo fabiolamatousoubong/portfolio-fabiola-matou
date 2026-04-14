@@ -1,0 +1,11 @@
+# Frontend
+Frontend/portfolio-app/node_modules/
+Frontend/portfolio-app/.nuxt/
+Frontend/portfolio-app/.output/
+
+# Backend
+Backend/portfolio-backend/portfolio-backend/target/
+
+.vscode/
+.idea/
+.env
