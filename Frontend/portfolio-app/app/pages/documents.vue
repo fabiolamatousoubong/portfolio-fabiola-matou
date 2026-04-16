@@ -10,24 +10,24 @@
         <div class="doc">
           <h3>🎓 Bachelorzeugnis</h3>
           <p>Angewandte Informatik – Oktober 2019 bis Februar 2024</p>
-          <a href="/Abschluss Zeugnisse.pdf" target="_blank">Ansehen</a>
-          <a href="/Abschluss Zeugnisse.pdf" download>Herunterladen</a>
+          <a href="/Abschluss Zeugnisse.pdf1" target="_blank">Ansehen</a>
+          <a href="/Abschluss Zeugnisse.pdf1" download>Herunterladen</a>
         </div>
 
         <!-- Sprache -->
         <div class="doc">
           <h3>🌍 Sprachzertifikat Deutsch</h3>
           <p>Französisch – Muttersprache</p>
-          <a href="/DSH-Zeugnis®.pdf" target="_blank">Ansehen</a>
-          <a href="/DSH-Zeugnis®.pdf" download>Herunterladen</a>
+          <a href="/DSH-Zeugnis®.pdf1" target="_blank">Ansehen</a>
+          <a href="/DSH-Zeugnis®.pdf1" download>Herunterladen</a>
         </div>
 
         <!-- Praktische Erfahrung -->
         <div class="doc">
           <h3>💼 Praktische Erfahrung</h3>
           <p>Werkstudentin & Praktikum im Bereich Softwareentwicklung</p>
-          <a href="/Bescheinigung Syntcha Fabiola Matou Soubong.PDF" target="_blank">Ansehen</a>
-          <a href="/Bescheinigung Syntcha Fabiola Matou Soubong.PDF" download>Herunterladen</a>
+          <a href="/Bescheinigung Syntcha Fabiola Matou Soubong.PDF1" target="_blank">Ansehen</a>
+          <a href="/Bescheinigung Syntcha Fabiola Matou Soubong.PDF1" download>Herunterladen</a>
         </div>
 
       </div>
