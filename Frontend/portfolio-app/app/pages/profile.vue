@@ -1,7 +1,7 @@
 <script setup>
 const config = useRuntimeConfig()
 
-const { data: profile, pending, error } = await useFetch(
+const { data: profile, pending, error } =  useFetch(
   `${config.public.apiBase}/api/profile`
 )
 </script>
