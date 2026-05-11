@@ -13,7 +13,10 @@ const { data: profile, pending, error } = await useFetch(
       <h1>Profil</h1>
 
       <!-- Loading -->
-      <p v-if="pending">Lädt...</p>
+      <div v-if="pending" class="loading-container">
+  <div class="spinner"></div>
+  <p>Profil wird geladen...</p>
+</div>
       <p v-else-if="error">Fehler beim Laden</p>
 
       <template v-else>
@@ -79,6 +82,28 @@ const { data: profile, pending, error } = await useFetch(
 .simple-card {
   padding: 28px;
   text-align: center;
+}
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 40px 0;
+}
+
+.spinner {
+  width: 45px;
+  height: 45px;
+  border: 4px solid #ddd;
+  border-top: 4px solid #1f2f6b;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 .simple-card h1 {
