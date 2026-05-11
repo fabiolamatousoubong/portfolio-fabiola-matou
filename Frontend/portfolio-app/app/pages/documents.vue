@@ -6,7 +6,6 @@
 
       <div class="docs">
 
-        <!-- Bachelor -->
         <div class="doc">
           <h3>🎓 Bachelorzeugnis</h3>
           <p>Angewandte Informatik – Oktober 2019 bis Februar 2024</p>
@@ -14,7 +13,6 @@
           <a href="/Abschluss Zeugnisse.pdf" download>Herunterladen</a>
         </div>
 
-        <!-- Sprache -->
         <div class="doc">
           <h3>🌍 Sprachzertifikat Deutsch</h3>
           <p>Französisch – Muttersprache</p>
@@ -22,7 +20,6 @@
           <a href="/DSH-Zeugnis®.pdf" download>Herunterladen</a>
         </div>
 
-        <!-- Praktische Erfahrung -->
         <div class="doc">
           <h3>💼 Praktische Erfahrung</h3>
           <p>Werkstudentin & Praktikum im Bereich Softwareentwicklung</p>
