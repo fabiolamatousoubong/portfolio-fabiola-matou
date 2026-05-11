@@ -1,5 +1,4 @@
 export default defineNuxtConfig({
-  srcDir: 'src/',
   app: {
     head: {
       title: 'Lebenslauf Fabiola'
